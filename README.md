@@ -21,15 +21,15 @@ Make sure your computer has the supported CPU architecture (X86_64), operating s
 
 Run one of the following commands to install the software. It doesn’t matter in which directory you run the command.
 
-example 1: install to your home folder in a computer cluster
+example 1: install to your home folder in a computer cluster:
 ```
 curl -sL http://www.bjfenglab.org/download/victor.sh | bash
 ```
-example 2: install to your home folder in a Macbook Pro
+example 2: install to your home folder in a Macbook Pro:
 ```
 curl -sL http://www.bjfenglab.org/download/victor.sh | sudo bash
 ```
-example 3: install to a computer cluster for multiple research groups
+example 3: install to a computer cluster for multiple research groups:
 ```
 curl -sL http://www.bjfenglab.org/download/victor.sh | sudo PREFIX=/opt/local PROFILE=/etc/profile bash
 ```
