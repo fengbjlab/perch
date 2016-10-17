@@ -1,6 +1,6 @@
 # perch
 
-PERCH is a software suite for the interpretation of rare or common genetic variants, including SNVs, InDels, structural variations, and de novo mutations. It evaluates the deleteriousness of variants, ranks genes for candidate selection, classifies variants as pathogenic or benign to a disease. It is useful for both gene discovery research and clinical genetic testing.
+PERCH is a software suite for the interpretation of rare or common genetic variants, including SNVs, InDels, structural variations, and de novo mutations. It evaluates the deleteriousness of variants, ranks genes for candidate selection, classifies variants as pathogenic or benign to a disease. It is useful for both gene discovery research and clinical genetic testing. For more information, please visit http://bjfenglab.org/perch .
 
 # Features
 
@@ -17,9 +17,9 @@ PERCH is a software suite for the interpretation of rare or common genetic varia
 
 # Installation
 
-Make sure your computer has the supported CPU architecture (X86_64), operating system (Linux with kernel 2.6.18 or later, Mac OS 10.7 or later), and the curl program. The disk space requirement for installation is about 4 GB.
+The following descriptions will guide you install PERCH, VANNER, vQC, and other utility programs and scripts. First, make sure your computer has the supported CPU architecture (X86_64), operating system (Linux with kernel 2.6.18 or later, Mac OS 10.7 or later), and the curl program. The disk space requirement for installation is about 4 GB.
 
-Run one of the following commands to install the software. It doesn’t matter in which directory you run the command.
+Then, run one of the following commands to install the software. It doesn’t matter in which directory you run the command.
 
 example 1: install to your home folder in a computer cluster:
 ```
